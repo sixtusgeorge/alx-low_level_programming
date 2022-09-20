@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- *main - _strlen - return the length of a string
+ * _strlen - return the length of a string
  * Owned By Lota
  *  @s: char to check
  *   Description: this will return the length of a string
- *   Return: 0 is success
+ *   Return: 0
  *   */
 int _strlen(char *s)
 {
